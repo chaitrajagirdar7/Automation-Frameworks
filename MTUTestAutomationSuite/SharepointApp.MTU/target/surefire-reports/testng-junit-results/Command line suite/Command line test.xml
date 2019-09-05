@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Manju-PC" name="PostNord.SharepointApp.MTU.AppTest" tests="1" failures="0" timestamp="25 Jan 2017 19:54:56 GMT" time="0.064" errors="0">
+  <testcase name="testApp on instance testApp(PostNord.SharepointApp.MTU.AppTest)" time="0.016" classname="PostNord.SharepointApp.MTU.AppTest"/>
+</testsuite>

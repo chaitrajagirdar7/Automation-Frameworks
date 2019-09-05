@@ -1,0 +1,6 @@
+StepDefinations\MTUStepdefs.class
+PostNord\SharepointApp\MTU\Zip.class
+PostNord\SharepointApp\MTU\SendMail.class
+PostNord\SharepointApp\MTU\util\WebConnector.class
+PostNord\SharepointApp\MTU\MTUStepdefs.class
+PostNord\SharepointApp\MTU\AppTest.class
