@@ -1,7 +1,0 @@
-2019-09-09 17:42:17,307 DEBUG [Test6] Executing test6
-2019-09-09 17:42:18,641 DEBUG [Test6] Validating runmode for Test6 in suite SuiteA
-2019-09-09 17:43:07,271 DEBUG [Test6] ------------------------Asserting Test Result----------------------------------
-2019-09-09 17:43:13,893 DEBUG [Test6] Validating runmode for Test6 in suite SuiteA
-2019-09-09 17:44:41,125 DEBUG [Test6] ------------------------Asserting Test Result----------------------------------
-2019-09-09 17:45:42,221 DEBUG [Test6] Validating runmode for Test6 in suite SuiteA
-2019-09-09 17:46:36,564 DEBUG [Test6] ------------------------Asserting Test Result----------------------------------

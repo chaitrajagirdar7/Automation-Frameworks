@@ -1,9 +1,0 @@
-2019-09-13 15:47:38,496 DEBUG [Shopping] Validating runmode for Shopping in suite FlipkartShopping
-2019-09-13 15:47:38,614 DEBUG [Shopping] Executing test: Shopping
-2019-09-13 15:48:35,103 DEBUG [Shopping] ------------------------Asserting Test Result----------------------------------
-2019-09-13 15:49:31,591 DEBUG [Shopping] Validating runmode for Shopping in suite FlipkartShopping
-2019-09-13 15:49:31,778 DEBUG [Shopping] Executing test: Shopping
-2019-09-13 15:50:26,694 DEBUG [Shopping] ------------------------Asserting Test Result----------------------------------
-2019-09-13 15:50:55,149 DEBUG [Shopping] Validating runmode for Shopping in suite FlipkartShopping
-2019-09-13 15:50:55,384 DEBUG [Shopping] Executing test: Shopping
-2019-09-13 15:52:03,494 DEBUG [Shopping] ------------------------Asserting Test Result----------------------------------
