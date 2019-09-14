@@ -1,0 +1,7 @@
+2019-09-14 15:58:07,828 DEBUG [Orders] Validating runmode for Orders in suite FlipkartOrders
+2019-09-14 15:58:08,036 DEBUG [Orders] Skipping the test Orders inside the suite FlipkartOrders
+2019-09-14 15:58:08,071 DEBUG [Orders] Validating runmode for Orders in suite FlipkartOrders
+2019-09-14 15:58:08,468 DEBUG [Orders] Skipping the test Orders inside the suite FlipkartOrders
+2019-09-14 15:58:08,479 DEBUG [Orders] Validating runmode for Orders in suite FlipkartOrders
+2019-09-14 15:58:08,692 DEBUG [Orders] Skipping the test Orders inside the suite FlipkartOrders
+2019-09-14 15:58:08,698 DEBUG [Orders] quitBrowser :

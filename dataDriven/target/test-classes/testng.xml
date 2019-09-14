@@ -1,0 +1,12 @@
+<suite name="My Project">
+<listeners>
+    <listener class-name="com.framework.dataDriven.CustomListener" />
+</listeners>
+  <suite-files>
+   <suite-file path="./FlipkartShopping.xml" />
+   <suite-file path="./FlipkartOrders.xml" />
+ <!-- suite-file path="./Suite_A.xml" / -->
+   <!-- suite-file path="./Suite_C.xml" / -->
+   
+  </suite-files>
+</suite>

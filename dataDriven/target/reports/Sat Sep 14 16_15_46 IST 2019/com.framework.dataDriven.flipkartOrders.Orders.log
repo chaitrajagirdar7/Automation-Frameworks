@@ -1,0 +1,88 @@
+2019-09-14 16:15:57,174 DEBUG [Orders] Validating runmode for Orders in suite FlipkartOrders
+2019-09-14 16:15:57,580 DEBUG [Orders] Executing test: Orders
+2019-09-14 16:16:17,049 DEBUG [Orders] navigate :Mozilla
+2019-09-14 16:16:25,705 DEBUG [Orders] navigate :Flipkart_url
+2019-09-14 16:16:25,705 DEBUG [Orders] wait :5000
+2019-09-14 16:16:30,706 DEBUG [Orders] wait :2000
+2019-09-14 16:16:32,706 DEBUG [Orders] getting Element :username_xpath
+2019-09-14 16:16:32,707 DEBUG [Orders] wait :2000
+2019-09-14 16:16:35,351 DEBUG [Orders]  data Entery :username_xpath
+2019-09-14 16:16:35,351 DEBUG [Orders] getting Element :pwd_xpath
+2019-09-14 16:16:35,352 DEBUG [Orders] wait :2000
+2019-09-14 16:16:37,431 DEBUG [Orders]  data Entery :pwd_xpath
+2019-09-14 16:16:37,432 DEBUG [Orders] getting Element :login_xpath
+2019-09-14 16:16:37,432 DEBUG [Orders] wait :2000
+2019-09-14 16:16:43,310 DEBUG [Orders] click :login_xpath
+2019-09-14 16:16:43,310 DEBUG [Orders] wait :1000
+2019-09-14 16:16:44,391 DEBUG [Orders] IsElement Present? :userName_xpath
+2019-09-14 16:16:44,417 DEBUG [Orders] -----------ImplicitWait- for 30
+2019-09-14 16:16:44,417 DEBUG [Orders] ------------------------Asserting Test Result----------------------------------
+2019-09-14 16:16:44,445 DEBUG [Orders] Loggedinto flipkart account succesfully
+2019-09-14 16:16:44,447 DEBUG [Orders] wait :5000
+2019-09-14 16:16:49,447 DEBUG [Orders] moveToElementClick :Account_xpath
+2019-09-14 16:16:49,468 DEBUG [Orders] getting Element :Account_xpath
+2019-09-14 16:16:49,468 DEBUG [Orders] wait :2000
+2019-09-14 16:16:51,825 DEBUG [Orders] getting Element :orders_xpath
+2019-09-14 16:16:51,827 DEBUG [Orders] wait :2000
+2019-09-14 16:16:54,246 DEBUG [Orders] wait :5000
+2019-09-14 16:16:59,737 DEBUG [Orders] -----------ImplicitWait- for 30
+2019-09-14 16:16:59,737 DEBUG [Orders] ------------------------Asserting Test Result----------------------------------
+2019-09-14 16:16:59,751 DEBUG [Orders] Validating runmode for Orders in suite FlipkartOrders
+2019-09-14 16:17:00,088 DEBUG [Orders] Executing test: Orders
+2019-09-14 16:17:29,308 DEBUG [Orders] navigate :Mozilla
+2019-09-14 16:17:37,828 DEBUG [Orders] navigate :Flipkart_url
+2019-09-14 16:17:37,829 DEBUG [Orders] wait :5000
+2019-09-14 16:17:42,829 DEBUG [Orders] wait :2000
+2019-09-14 16:17:44,844 DEBUG [Orders] getting Element :username_xpath
+2019-09-14 16:17:44,849 DEBUG [Orders] wait :2000
+2019-09-14 16:17:47,534 DEBUG [Orders]  data Entery :username_xpath
+2019-09-14 16:17:47,534 DEBUG [Orders] getting Element :pwd_xpath
+2019-09-14 16:17:47,546 DEBUG [Orders] wait :2000
+2019-09-14 16:17:49,646 DEBUG [Orders]  data Entery :pwd_xpath
+2019-09-14 16:17:49,646 DEBUG [Orders] getting Element :login_xpath
+2019-09-14 16:17:49,647 DEBUG [Orders] wait :2000
+2019-09-14 16:17:56,326 DEBUG [Orders] click :login_xpath
+2019-09-14 16:17:56,326 DEBUG [Orders] wait :1000
+2019-09-14 16:17:57,370 DEBUG [Orders] IsElement Present? :userName_xpath
+2019-09-14 16:17:57,389 DEBUG [Orders] -----------ImplicitWait- for 30
+2019-09-14 16:17:57,389 DEBUG [Orders] ------------------------Asserting Test Result----------------------------------
+2019-09-14 16:17:57,390 DEBUG [Orders] Loggedinto flipkart account succesfully
+2019-09-14 16:17:57,390 DEBUG [Orders] wait :5000
+2019-09-14 16:18:02,390 DEBUG [Orders] moveToElementClick :Account_xpath
+2019-09-14 16:18:02,390 DEBUG [Orders] getting Element :Account_xpath
+2019-09-14 16:18:02,390 DEBUG [Orders] wait :2000
+2019-09-14 16:18:04,741 DEBUG [Orders] getting Element :orders_xpath
+2019-09-14 16:18:04,742 DEBUG [Orders] wait :2000
+2019-09-14 16:18:07,031 DEBUG [Orders] wait :5000
+2019-09-14 16:18:12,475 DEBUG [Orders] -----------ImplicitWait- for 30
+2019-09-14 16:18:12,477 DEBUG [Orders] ------------------------Asserting Test Result----------------------------------
+2019-09-14 16:18:12,496 DEBUG [Orders] Validating runmode for Orders in suite FlipkartOrders
+2019-09-14 16:18:13,081 DEBUG [Orders] Executing test: Orders
+2019-09-14 16:18:40,613 DEBUG [Orders] navigate :Mozilla
+2019-09-14 16:18:50,712 DEBUG [Orders] navigate :Flipkart_url
+2019-09-14 16:18:50,713 DEBUG [Orders] wait :5000
+2019-09-14 16:18:55,713 DEBUG [Orders] wait :2000
+2019-09-14 16:18:57,716 DEBUG [Orders] getting Element :username_xpath
+2019-09-14 16:18:57,716 DEBUG [Orders] wait :2000
+2019-09-14 16:18:59,959 DEBUG [Orders]  data Entery :username_xpath
+2019-09-14 16:18:59,959 DEBUG [Orders] getting Element :pwd_xpath
+2019-09-14 16:18:59,959 DEBUG [Orders] wait :2000
+2019-09-14 16:19:02,187 DEBUG [Orders]  data Entery :pwd_xpath
+2019-09-14 16:19:02,187 DEBUG [Orders] getting Element :login_xpath
+2019-09-14 16:19:02,188 DEBUG [Orders] wait :2000
+2019-09-14 16:19:09,097 DEBUG [Orders] click :login_xpath
+2019-09-14 16:19:09,098 DEBUG [Orders] wait :1000
+2019-09-14 16:19:10,136 DEBUG [Orders] IsElement Present? :userName_xpath
+2019-09-14 16:19:10,152 DEBUG [Orders] -----------ImplicitWait- for 30
+2019-09-14 16:19:10,152 DEBUG [Orders] ------------------------Asserting Test Result----------------------------------
+2019-09-14 16:19:10,152 DEBUG [Orders] Loggedinto flipkart account succesfully
+2019-09-14 16:19:10,152 DEBUG [Orders] wait :5000
+2019-09-14 16:19:15,153 DEBUG [Orders] moveToElementClick :Account_xpath
+2019-09-14 16:19:15,153 DEBUG [Orders] getting Element :Account_xpath
+2019-09-14 16:19:15,154 DEBUG [Orders] wait :2000
+2019-09-14 16:19:17,692 DEBUG [Orders] getting Element :orders_xpath
+2019-09-14 16:19:17,692 DEBUG [Orders] wait :2000
+2019-09-14 16:19:19,981 DEBUG [Orders] wait :5000
+2019-09-14 16:19:25,134 DEBUG [Orders] -----------ImplicitWait- for 30
+2019-09-14 16:19:25,134 DEBUG [Orders] ------------------------Asserting Test Result----------------------------------
+2019-09-14 16:19:25,136 DEBUG [Orders] quitBrowser :
