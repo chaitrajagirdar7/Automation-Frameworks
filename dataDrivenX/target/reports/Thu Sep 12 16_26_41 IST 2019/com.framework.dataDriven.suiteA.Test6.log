@@ -1,0 +1,7 @@
+2019-09-12 16:26:41,157 DEBUG [Test6] Executing test6
+2019-09-12 16:26:41,881 DEBUG [Test6] Validating runmode for Test6 in suite SuiteA
+2019-09-12 16:26:41,996 DEBUG [Test6] Skipping the test Test6 inside the suite SuiteA
+2019-09-12 16:26:42,015 DEBUG [Test6] Validating runmode for Test6 in suite SuiteA
+2019-09-12 16:26:42,144 DEBUG [Test6] Skipping the test Test6 inside the suite SuiteA
+2019-09-12 16:26:42,158 DEBUG [Test6] Validating runmode for Test6 in suite SuiteA
+2019-09-12 16:26:42,380 DEBUG [Test6] Skipping the test Test6 inside the suite SuiteA

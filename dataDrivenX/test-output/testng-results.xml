@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-14T11:30:45Z" name="FlipkartShopping" finished-at="2019-09-14T11:34:48Z" duration-ms="243216">
+    <groups>
+    </groups>
+    <test started-at="2019-09-14T11:30:45Z" name="Shopping" finished-at="2019-09-14T11:34:48Z" duration-ms="243216">
+      <class name="com.framework.dataDriven.flipkartShopping.Shopping">
+        <test-method is-config="true" signature="initLogs()[pri:0, instance:com.framework.dataDriven.flipkartShopping.Shopping@61dd025]" started-at="2019-09-14T11:30:45Z" name="initLogs" finished-at="2019-09-14T11:30:45Z" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initLogs -->
+        <test-method signature="shopping(java.util.Hashtable)[pri:0, instance:com.framework.dataDriven.flipkartShopping.Shopping@61dd025]" started-at="2019-09-14T11:30:46Z" name="shopping" data-provider="flipkartShoppingDataProvider" finished-at="2019-09-14T11:32:37Z" duration-ms="110507" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Result_Present=Y, Product=long skirts for women, Runmode=Y, MinPrice=500, Expected_Result=SUCCESS}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopping -->
+        <test-method signature="shopping(java.util.Hashtable)[pri:0, instance:com.framework.dataDriven.flipkartShopping.Shopping@61dd025]" started-at="2019-09-14T11:32:37Z" name="shopping" data-provider="flipkartShoppingDataProvider" finished-at="2019-09-14T11:33:41Z" duration-ms="64525" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Result_Present=Y, Product=trousers, Runmode=Y, MinPrice=250, Expected_Result=SUCCESS}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopping -->
+        <test-method signature="shopping(java.util.Hashtable)[pri:0, instance:com.framework.dataDriven.flipkartShopping.Shopping@61dd025]" started-at="2019-09-14T11:33:41Z" name="shopping" data-provider="flipkartShoppingDataProvider" finished-at="2019-09-14T11:34:48Z" duration-ms="66344" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Result_Present=Y, Product=frocks, Runmode=Y, MinPrice=1000, Expected_Result=SUCCESS}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopping -->
+        <test-method is-config="true" signature="quitbrowser()[pri:0, instance:com.framework.dataDriven.flipkartShopping.Shopping@61dd025]" started-at="2019-09-14T11:34:48Z" name="quitbrowser" finished-at="2019-09-14T11:34:48Z" duration-ms="646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitbrowser -->
+      </class> <!-- com.framework.dataDriven.flipkartShopping.Shopping -->
+    </test> <!-- Shopping -->
+  </suite> <!-- FlipkartShopping -->
+  <suite started-at="2019-09-14T11:38:26Z" name="My Project" finished-at="2019-09-14T11:38:26Z" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- My Project -->
+  <suite started-at="2019-09-14T11:34:51Z" name="FlipkartOrders" finished-at="2019-09-14T11:38:09Z" duration-ms="197917">
+    <groups>
+    </groups>
+    <test started-at="2019-09-14T11:34:51Z" name="Orders" finished-at="2019-09-14T11:38:09Z" duration-ms="197917">
+      <class name="com.framework.dataDriven.flipkartOrders.Orders">
+        <test-method is-config="true" signature="initLogs()[pri:0, instance:com.framework.dataDriven.flipkartOrders.Orders@161479c6]" started-at="2019-09-14T11:34:51Z" name="initLogs" finished-at="2019-09-14T11:34:51Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initLogs -->
+        <test-method signature="orders(java.util.Hashtable)[pri:0, instance:com.framework.dataDriven.flipkartOrders.Orders@161479c6]" started-at="2019-09-14T11:34:51Z" name="orders" data-provider="flipkartOrdersDataProvider" finished-at="2019-09-14T11:35:39Z" duration-ms="48679" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Result_Present=Y, OrderNumber=OD115565989705623000, Runmode=Y}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orders -->
+        <test-method signature="orders(java.util.Hashtable)[pri:0, instance:com.framework.dataDriven.flipkartOrders.Orders@161479c6]" started-at="2019-09-14T11:35:39Z" name="orders" data-provider="flipkartOrdersDataProvider" finished-at="2019-09-14T11:36:48Z" duration-ms="68783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Result_Present=Y, OrderNumber=OD115385399499641000, Runmode=Y}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orders -->
+        <test-method signature="orders(java.util.Hashtable)[pri:0, instance:com.framework.dataDriven.flipkartOrders.Orders@161479c6]" started-at="2019-09-14T11:36:48Z" name="orders" data-provider="flipkartOrdersDataProvider" finished-at="2019-09-14T11:38:05Z" duration-ms="76858" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Result_Present=N, OrderNumber=xyz, Runmode=Y}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orders -->
+        <test-method is-config="true" signature="quitbrowser()[pri:0, instance:com.framework.dataDriven.flipkartOrders.Orders@161479c6]" started-at="2019-09-14T11:38:06Z" name="quitbrowser" finished-at="2019-09-14T11:38:09Z" duration-ms="3043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitbrowser -->
+      </class> <!-- com.framework.dataDriven.flipkartOrders.Orders -->
+    </test> <!-- Orders -->
+  </suite> <!-- FlipkartOrders -->
+</testng-results>

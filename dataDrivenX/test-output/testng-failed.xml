@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FlipkartShopping]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.framework.dataDriven.CustomListener"/>
+  </listeners>
+  <test thread-count="5" name="Shopping(failed)">
+    <classes>
+      <class name="com.framework.dataDriven.flipkartShopping.Shopping">
+        <methods>
+          <include name="quitbrowser"/>
+          <include name="shopping" invocation-numbers="0"/>
+          <include name="initLogs"/>
+        </methods>
+      </class> <!-- com.framework.dataDriven.flipkartShopping.Shopping -->
+    </classes>
+  </test> <!-- Shopping(failed) -->
+</suite> <!-- Failed suite [FlipkartShopping] -->

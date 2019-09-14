@@ -1,0 +1,119 @@
+2019-09-14 13:03:03,596 DEBUG [Shopping] Validating runmode for Shopping in suite FlipkartShopping
+2019-09-14 13:03:03,831 DEBUG [Shopping] Executing test: Shopping
+2019-09-14 13:03:22,686 DEBUG [Shopping] navigate :Mozilla
+2019-09-14 13:03:31,795 DEBUG [Shopping] navigate :Flipkart_url
+2019-09-14 13:03:31,796 DEBUG [Shopping] wait :5000
+2019-09-14 13:03:36,797 DEBUG [Shopping] wait :2000
+2019-09-14 13:03:38,797 DEBUG [Shopping] getting Element :username_xpath
+2019-09-14 13:03:38,798 DEBUG [Shopping] wait :2000
+2019-09-14 13:03:41,068 DEBUG [Shopping]  data Entery :username_xpath
+2019-09-14 13:03:41,068 DEBUG [Shopping] getting Element :pwd_xpath
+2019-09-14 13:03:41,068 DEBUG [Shopping] wait :2000
+2019-09-14 13:03:43,156 DEBUG [Shopping]  data Entery :pwd_xpath
+2019-09-14 13:03:43,156 DEBUG [Shopping] getting Element :login_xpath
+2019-09-14 13:03:43,156 DEBUG [Shopping] wait :2000
+2019-09-14 13:03:45,526 DEBUG [Shopping] click :login_xpath
+2019-09-14 13:03:45,526 DEBUG [Shopping] wait :1000
+2019-09-14 13:03:49,444 DEBUG [Shopping] IsElement Present? :userName_xpath
+2019-09-14 13:03:49,486 DEBUG [Shopping] -----------ImplicitWait- for 30
+2019-09-14 13:03:49,486 DEBUG [Shopping] ------------------------Asserting Test Result----------------------------------
+2019-09-14 13:03:49,662 DEBUG [Shopping] Loggedinto flipkart account succesfully
+2019-09-14 13:03:49,662 DEBUG [Shopping] wait :5000
+2019-09-14 13:03:54,662 DEBUG [Shopping] getting Element :searchProducts_xpath
+2019-09-14 13:03:54,662 DEBUG [Shopping] wait :2000
+2019-09-14 13:03:56,944 DEBUG [Shopping]  data Entery :searchProducts_xpath
+2019-09-14 13:03:56,944 DEBUG [Shopping] wait :1000
+2019-09-14 13:03:57,948 DEBUG [Shopping] Enter Keys :ENTER
+2019-09-14 13:03:57,948 DEBUG [Shopping] getting Element :searchProducts_xpath
+2019-09-14 13:03:57,948 DEBUG [Shopping] wait :2000
+2019-09-14 13:04:01,240 DEBUG [Shopping] wait :5000
+2019-09-14 13:04:06,251 DEBUG [Shopping] selecting frm drpdwn :setMinPrice_xpath
+2019-09-14 13:04:06,304 DEBUG [Shopping] getting Element :setMinPrice_xpath
+2019-09-14 13:04:06,305 DEBUG [Shopping] wait :2000
+2019-09-14 13:04:09,395 DEBUG [Shopping] wait :8000
+2019-09-14 13:04:17,479 DEBUG [Shopping] IsElement Present? :Result_xpath
+2019-09-14 13:04:17,497 DEBUG [Shopping] -----------ImplicitWait- for 30
+2019-09-14 13:04:17,497 DEBUG [Shopping] ------------------------Asserting Test Result----------------------------------
+2019-09-14 13:04:17,497 DEBUG [Shopping] convert string to integer:ResultPrice_xpath
+2019-09-14 13:04:17,497 DEBUG [Shopping] getting Element :ResultPrice_xpath
+2019-09-14 13:04:17,498 DEBUG [Shopping] wait :2000
+2019-09-14 13:04:19,592 DEBUG [Shopping] getting Element :ResultPrice_xpath
+2019-09-14 13:04:19,592 DEBUG [Shopping] wait :2000
+2019-09-14 13:04:21,653 DEBUG [Shopping] -----------ImplicitWait- for 30
+2019-09-14 13:04:21,653 DEBUG [Shopping] ------------------------Asserting Test Result----------------------------------
+2019-09-14 13:04:21,663 DEBUG [Shopping] Validating runmode for Shopping in suite FlipkartShopping
+2019-09-14 13:04:21,827 DEBUG [Shopping] Executing test: Shopping
+2019-09-14 13:04:39,776 DEBUG [Shopping] navigate :Mozilla
+2019-09-14 13:04:49,244 DEBUG [Shopping] navigate :Flipkart_url
+2019-09-14 13:04:49,244 DEBUG [Shopping] wait :5000
+2019-09-14 13:04:54,245 DEBUG [Shopping] wait :2000
+2019-09-14 13:04:56,249 DEBUG [Shopping] getting Element :username_xpath
+2019-09-14 13:04:56,249 DEBUG [Shopping] wait :2000
+2019-09-14 13:04:58,528 DEBUG [Shopping]  data Entery :username_xpath
+2019-09-14 13:04:58,528 DEBUG [Shopping] getting Element :pwd_xpath
+2019-09-14 13:04:58,528 DEBUG [Shopping] wait :2000
+2019-09-14 13:05:00,604 DEBUG [Shopping]  data Entery :pwd_xpath
+2019-09-14 13:05:00,604 DEBUG [Shopping] getting Element :login_xpath
+2019-09-14 13:05:00,604 DEBUG [Shopping] wait :2000
+2019-09-14 13:05:06,404 DEBUG [Shopping] click :login_xpath
+2019-09-14 13:05:06,406 DEBUG [Shopping] wait :1000
+2019-09-14 13:05:07,479 DEBUG [Shopping] IsElement Present? :userName_xpath
+2019-09-14 13:05:07,499 DEBUG [Shopping] -----------ImplicitWait- for 30
+2019-09-14 13:05:07,500 DEBUG [Shopping] ------------------------Asserting Test Result----------------------------------
+2019-09-14 13:05:07,501 DEBUG [Shopping] Loggedinto flipkart account succesfully
+2019-09-14 13:05:07,501 DEBUG [Shopping] wait :5000
+2019-09-14 13:05:12,504 DEBUG [Shopping] getting Element :searchProducts_xpath
+2019-09-14 13:05:12,504 DEBUG [Shopping] wait :2000
+2019-09-14 13:05:14,703 DEBUG [Shopping]  data Entery :searchProducts_xpath
+2019-09-14 13:05:14,703 DEBUG [Shopping] wait :1000
+2019-09-14 13:05:15,703 DEBUG [Shopping] Enter Keys :ENTER
+2019-09-14 13:05:15,703 DEBUG [Shopping] getting Element :searchProducts_xpath
+2019-09-14 13:05:15,703 DEBUG [Shopping] wait :2000
+2019-09-14 13:05:18,006 DEBUG [Shopping] wait :5000
+2019-09-14 13:05:23,006 DEBUG [Shopping] selecting frm drpdwn :setMinPrice_xpath
+2019-09-14 13:05:23,006 DEBUG [Shopping] getting Element :setMinPrice_xpath
+2019-09-14 13:05:23,006 DEBUG [Shopping] wait :2000
+2019-09-14 13:05:55,550 DEBUG [Shopping] Validating runmode for Shopping in suite FlipkartShopping
+2019-09-14 13:05:55,811 DEBUG [Shopping] Executing test: Shopping
+2019-09-14 13:06:08,377 DEBUG [Shopping] navigate :Mozilla
+2019-09-14 13:06:20,951 DEBUG [Shopping] navigate :Flipkart_url
+2019-09-14 13:06:20,952 DEBUG [Shopping] wait :5000
+2019-09-14 13:06:25,955 DEBUG [Shopping] wait :2000
+2019-09-14 13:06:27,959 DEBUG [Shopping] getting Element :username_xpath
+2019-09-14 13:06:27,959 DEBUG [Shopping] wait :2000
+2019-09-14 13:06:30,211 DEBUG [Shopping]  data Entery :username_xpath
+2019-09-14 13:06:30,211 DEBUG [Shopping] getting Element :pwd_xpath
+2019-09-14 13:06:30,211 DEBUG [Shopping] wait :2000
+2019-09-14 13:06:32,316 DEBUG [Shopping]  data Entery :pwd_xpath
+2019-09-14 13:06:32,316 DEBUG [Shopping] getting Element :login_xpath
+2019-09-14 13:06:32,316 DEBUG [Shopping] wait :2000
+2019-09-14 13:06:39,373 DEBUG [Shopping] click :login_xpath
+2019-09-14 13:06:39,373 DEBUG [Shopping] wait :1000
+2019-09-14 13:06:40,398 DEBUG [Shopping] IsElement Present? :userName_xpath
+2019-09-14 13:06:40,409 DEBUG [Shopping] -----------ImplicitWait- for 30
+2019-09-14 13:06:40,410 DEBUG [Shopping] ------------------------Asserting Test Result----------------------------------
+2019-09-14 13:06:40,410 DEBUG [Shopping] Loggedinto flipkart account succesfully
+2019-09-14 13:06:40,410 DEBUG [Shopping] wait :5000
+2019-09-14 13:06:45,410 DEBUG [Shopping] getting Element :searchProducts_xpath
+2019-09-14 13:06:45,410 DEBUG [Shopping] wait :2000
+2019-09-14 13:06:47,622 DEBUG [Shopping]  data Entery :searchProducts_xpath
+2019-09-14 13:06:47,622 DEBUG [Shopping] wait :1000
+2019-09-14 13:06:48,623 DEBUG [Shopping] Enter Keys :ENTER
+2019-09-14 13:06:48,623 DEBUG [Shopping] getting Element :searchProducts_xpath
+2019-09-14 13:06:48,623 DEBUG [Shopping] wait :2000
+2019-09-14 13:06:51,607 DEBUG [Shopping] wait :5000
+2019-09-14 13:06:56,607 DEBUG [Shopping] selecting frm drpdwn :setMinPrice_xpath
+2019-09-14 13:06:56,607 DEBUG [Shopping] getting Element :setMinPrice_xpath
+2019-09-14 13:06:56,607 DEBUG [Shopping] wait :2000
+2019-09-14 13:06:59,355 DEBUG [Shopping] wait :8000
+2019-09-14 13:07:07,397 DEBUG [Shopping] IsElement Present? :Result_xpath
+2019-09-14 13:07:07,407 DEBUG [Shopping] -----------ImplicitWait- for 30
+2019-09-14 13:07:07,407 DEBUG [Shopping] ------------------------Asserting Test Result----------------------------------
+2019-09-14 13:07:07,407 DEBUG [Shopping] convert string to integer:ResultPrice_xpath
+2019-09-14 13:07:07,407 DEBUG [Shopping] getting Element :ResultPrice_xpath
+2019-09-14 13:07:07,407 DEBUG [Shopping] wait :2000
+2019-09-14 13:07:09,453 DEBUG [Shopping] getting Element :ResultPrice_xpath
+2019-09-14 13:07:09,463 DEBUG [Shopping] wait :2000
+2019-09-14 13:07:11,505 DEBUG [Shopping] -----------ImplicitWait- for 30
+2019-09-14 13:07:11,505 DEBUG [Shopping] ------------------------Asserting Test Result----------------------------------
+2019-09-14 13:07:11,515 DEBUG [Shopping] quitBrowser :

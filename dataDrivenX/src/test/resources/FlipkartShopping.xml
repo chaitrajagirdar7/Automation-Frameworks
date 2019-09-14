@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FlipkartShopping">
+
+
+<test name="Shopping">
+    <classes>
+        <class name="com.framework.dataDriven.flipkartShopping.Shopping" ></class>  
+         </classes>
+</test>
+
+</suite>
+
